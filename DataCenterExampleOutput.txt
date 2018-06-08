@@ -1,0 +1,329 @@
+Data-server Logs:
+--------Report of Data-server 1-----------------
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 393 in 97 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 386 in 195 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 584 in 84 milliseconds and notifies data-generator thread 5
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 235 in 179 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 4
+Data-server thread 1 sends the connection confirmation to data-generator thread 4
+Data-server thread 1 completes processing number datum 467 in 199 milliseconds and notifies data-generator thread 4
+Data-server thread 1 accepts the connection from data-generator thread 4
+Data-server thread 1 sends the connection confirmation to data-generator thread 4
+Data-server thread 1 completes processing number datum 493 in 62 milliseconds and notifies data-generator thread 4
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 362 in 121 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 327 in 98 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 359 in 166 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 537 in 153 milliseconds and notifies data-generator thread 5
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 326 in 124 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 3
+Data-server thread 1 sends the connection confirmation to data-generator thread 3
+Data-server thread 1 completes processing number datum 368 in 66 milliseconds and notifies data-generator thread 3
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 598 in 136 milliseconds and notifies data-generator thread 5
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 524 in 77 milliseconds and notifies data-generator thread 5
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 515 in 198 milliseconds and notifies data-generator thread 5
+Data-server thread 1 accepts the connection from data-generator thread 1
+Data-server thread 1 sends the connection confirmation to data-generator thread 1
+Data-server thread 1 completes processing number datum 122 in 122 milliseconds and notifies data-generator thread 1
+Data-server thread 1 accepts the connection from data-generator thread 1
+Data-server thread 1 sends the connection confirmation to data-generator thread 1
+Data-server thread 1 completes processing number datum 158 in 101 milliseconds and notifies data-generator thread 1
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 290 in 76 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 263 in 121 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 272 in 54 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 236 in 120 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 211 in 142 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 267 in 149 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 2
+Data-server thread 1 sends the connection confirmation to data-generator thread 2
+Data-server thread 1 completes processing number datum 230 in 62 milliseconds and notifies data-generator thread 2
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 526 in 177 milliseconds and notifies data-generator thread 5
+Data-server thread 1 accepts the connection from data-generator thread 5
+Data-server thread 1 sends the connection confirmation to data-generator thread 5
+Data-server thread 1 completes processing number datum 580 in 163 milliseconds and notifies data-generator thread 5
+
+--------End of Report of Data_server 1----------------
+
+--------Report of Data-server 2-----------------
+Data-server thread 2 accepts the connection from data-generator thread 2
+Data-server thread 2 sends the connection confirmation to data-generator thread 2
+Data-server thread 2 completes processing number datum 215 in 173 milliseconds and notifies data-generator thread 2
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 469 in 157 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 177 in 158 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 3
+Data-server thread 2 sends the connection confirmation to data-generator thread 3
+Data-server thread 2 completes processing number datum 392 in 199 milliseconds and notifies data-generator thread 3
+Data-server thread 2 accepts the connection from data-generator thread 3
+Data-server thread 2 sends the connection confirmation to data-generator thread 3
+Data-server thread 2 completes processing number datum 321 in 63 milliseconds and notifies data-generator thread 3
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 140 in 60 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 129 in 134 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 162 in 115 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 123 in 160 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 167 in 60 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 135 in 162 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 1
+Data-server thread 2 sends the connection confirmation to data-generator thread 1
+Data-server thread 2 completes processing number datum 102 in 124 milliseconds and notifies data-generator thread 1
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 456 in 117 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 3
+Data-server thread 2 sends the connection confirmation to data-generator thread 3
+Data-server thread 2 completes processing number datum 382 in 110 milliseconds and notifies data-generator thread 3
+Data-server thread 2 accepts the connection from data-generator thread 2
+Data-server thread 2 sends the connection confirmation to data-generator thread 2
+Data-server thread 2 completes processing number datum 249 in 116 milliseconds and notifies data-generator thread 2
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 411 in 172 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 442 in 164 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 429 in 136 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 473 in 134 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 421 in 65 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 5
+Data-server thread 2 sends the connection confirmation to data-generator thread 5
+Data-server thread 2 completes processing number datum 570 in 130 milliseconds and notifies data-generator thread 5
+Data-server thread 2 accepts the connection from data-generator thread 4
+Data-server thread 2 sends the connection confirmation to data-generator thread 4
+Data-server thread 2 completes processing number datum 419 in 61 milliseconds and notifies data-generator thread 4
+Data-server thread 2 accepts the connection from data-generator thread 5
+Data-server thread 2 sends the connection confirmation to data-generator thread 5
+Data-server thread 2 completes processing number datum 513 in 179 milliseconds and notifies data-generator thread 5
+Data-server thread 2 accepts the connection from data-generator thread 5
+Data-server thread 2 sends the connection confirmation to data-generator thread 5
+Data-server thread 2 completes processing number datum 591 in 136 milliseconds and notifies data-generator thread 5
+
+--------End of Report of Data_server 2----------------
+
+Data-generator Logs:
+-----------Report of Data-generator 1-----------------
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 177 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 140 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 129 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 162 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 123 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 167 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 135 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 2
+Data-generator thread 1 receives the connection confirmation from data-server thread 2
+Data-generator thread 1 acknowledges the completion of the number datum 102 from data-server thread 2
+Data-generator thread 1 connects to data-server thread 1
+Data-generator thread 1 receives the connection confirmation from data-server thread 1
+Data-generator thread 1 acknowledges the completion of the number datum 122 from data-server thread 1
+Data-generator thread 1 connects to data-server thread 1
+Data-generator thread 1 receives the connection confirmation from data-server thread 1
+Data-generator thread 1 acknowledges the completion of the number datum 158 from data-server thread 1
+
+-----------End of Report of Data-generator 1-----------------
+
+-----------Report of Data-generator 2-----------------
+Data-generator thread 2 connects to data-server thread 2
+Data-generator thread 2 receives the connection confirmation from data-server thread 2
+Data-generator thread 2 acknowledges the completion of the number datum 215 from data-server thread 2
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 235 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 2
+Data-generator thread 2 receives the connection confirmation from data-server thread 2
+Data-generator thread 2 acknowledges the completion of the number datum 249 from data-server thread 2
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 290 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 263 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 272 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 236 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 211 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 267 from data-server thread 1
+Data-generator thread 2 connects to data-server thread 1
+Data-generator thread 2 receives the connection confirmation from data-server thread 1
+Data-generator thread 2 acknowledges the completion of the number datum 230 from data-server thread 1
+
+-----------End of Report of Data-generator 2-----------------
+
+-----------Report of Data-generator 3-----------------
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 393 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 386 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 2
+Data-generator thread 3 receives the connection confirmation from data-server thread 2
+Data-generator thread 3 acknowledges the completion of the number datum 392 from data-server thread 2
+Data-generator thread 3 connects to data-server thread 2
+Data-generator thread 3 receives the connection confirmation from data-server thread 2
+Data-generator thread 3 acknowledges the completion of the number datum 321 from data-server thread 2
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 362 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 327 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 359 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 326 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 1
+Data-generator thread 3 receives the connection confirmation from data-server thread 1
+Data-generator thread 3 acknowledges the completion of the number datum 368 from data-server thread 1
+Data-generator thread 3 connects to data-server thread 2
+Data-generator thread 3 receives the connection confirmation from data-server thread 2
+Data-generator thread 3 acknowledges the completion of the number datum 382 from data-server thread 2
+
+-----------End of Report of Data-generator 3-----------------
+
+-----------Report of Data-generator 4-----------------
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 469 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 1
+Data-generator thread 4 receives the connection confirmation from data-server thread 1
+Data-generator thread 4 acknowledges the completion of the number datum 467 from data-server thread 1
+Data-generator thread 4 connects to data-server thread 1
+Data-generator thread 4 receives the connection confirmation from data-server thread 1
+Data-generator thread 4 acknowledges the completion of the number datum 493 from data-server thread 1
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 456 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 411 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 442 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 429 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 473 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 421 from data-server thread 2
+Data-generator thread 4 connects to data-server thread 2
+Data-generator thread 4 receives the connection confirmation from data-server thread 2
+Data-generator thread 4 acknowledges the completion of the number datum 419 from data-server thread 2
+
+-----------End of Report of Data-generator 4-----------------
+
+-----------Report of Data-generator 5-----------------
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 584 from data-server thread 1
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 537 from data-server thread 1
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 598 from data-server thread 1
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 524 from data-server thread 1
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 515 from data-server thread 1
+Data-generator thread 5 connects to data-server thread 2
+Data-generator thread 5 receives the connection confirmation from data-server thread 2
+Data-generator thread 5 acknowledges the completion of the number datum 570 from data-server thread 2
+Data-generator thread 5 connects to data-server thread 2
+Data-generator thread 5 receives the connection confirmation from data-server thread 2
+Data-generator thread 5 acknowledges the completion of the number datum 513 from data-server thread 2
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 526 from data-server thread 1
+Data-generator thread 5 connects to data-server thread 2
+Data-generator thread 5 receives the connection confirmation from data-server thread 2
+Data-generator thread 5 acknowledges the completion of the number datum 591 from data-server thread 2
+Data-generator thread 5 connects to data-server thread 1
+Data-generator thread 5 receives the connection confirmation from data-server thread 1
+Data-generator thread 5 acknowledges the completion of the number datum 580 from data-server thread 1
+
+-----------End of Report of Data-generator 5-----------------
